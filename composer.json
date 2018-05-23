@@ -1,5 +1,5 @@
 {
-  "name": "magestore/bannerslider-magento2",
+  "name": "reach-digital/bannerslider-magento2",
   "require": {
     "php": "~7.0.13|~7.1.0"
   },
